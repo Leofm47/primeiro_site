@@ -1,0 +1,148 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.cabeca{
+    background-color: darkred;
+    font-size: large;
+    font-style: normal;
+    color: black;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.primeiro{
+    background-color: black;
+    display: flex;
+}
+
+.membro{
+    font-style: normal;
+    color: aliceblue;
+    margin:  10px 300px 30px;
+    padding: 0;
+   align-items: center;
+    justify-content: center;
+    display: flex;
+}
+h1{
+     font-style: normal;
+     margin:  10px 50px 20px;;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.texto{
+    font-style: normal;
+    color: aliceblue;
+    margin:  10px 350px 30px;;
+    padding: 0;
+   align-items: center;
+    justify-content: center;
+    
+}
+
+
+.segunda{
+    background-color: black;
+    display: flex;
+    align-items: center;
+}
+
+
+.terceiro{
+    background-color: darkred;
+    display: flex;
+}
+
+.quarto{
+    background-color: darkred;
+    display: flex;
+    
+}
+
+.plan{
+    font-size: large;
+    font-style: normal;
+    color: aliceblue;
+    background-color: black;
+    
+}
+
+p{
+    font-style: normal;
+    margin:  10px 50px 20px;;
+    padding: 0;
+   align-items: center;
+    justify-content: center;
+}
+
+.list{
+    font-style: normal;
+    margin:  10px 50px 20px;
+    padding: 0;
+   align-items: center;
+    justify-content: center;
+}
+
+.tabela{
+    font-style: normal;
+    margin: 150px 100px 500px;
+    padding: 0;
+   align-items: center;
+    justify-content: center;
+    display: flex;
+    padding: 0;
+}
+
+.teste{
+    background-color: black;
+}
+
+.texto2{
+    font-style: normal;
+    color: black;
+    margin:  10px 200px 30px;;
+    padding: 0;
+   align-items: center;
+    justify-content: center;
+}
+
+.imagem{
+    font-style: normal;
+    margin:  10px 10px 20px;
+    padding: 0;
+   align-items: center;
+    justify-content: center;
+    display: flex;
+    
+}
+
+
+.texto3{
+    color: aliceblue;
+    font-size: smaller;
+    margin:  10px 350px 30px;;
+    padding: 0;
+   align-items: center;
+    justify-content: center;
+}
+
+.imagem3{
+    font-style: normal;
+    margin:  10px 350px 30px;;
+    padding: 0;
+   align-items: center;
+    justify-content: center;
+    width: 150px;
+}
+
+.divisao3{
+    color: aliceblue;
+    text-align: center;
+}
